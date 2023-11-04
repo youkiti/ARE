@@ -10,4 +10,7 @@ https://github.com/youkiti/ARE/blob/main/2023_11_1Azure_DTA_abstract_classifier.
 OpenAI API:
 https://github.com/youkiti/ARE/blob/main/2023_11_1OpenAI_DTA_abstract_classifier.ipynb
 
+If you want to develop meta-prompts, please folk.
+https://github.com/youkiti/ARE/blob/main/2023_11_2_Azure_meta_prompt_development_serial_experiments.ipynb
+
 
