@@ -1,4 +1,4 @@
-# ARE (Abstract Review Enhancement)
+# ARE (AI-based Review Enhancement)
 Development of meta-prompts for Large Language Models to screen titles and abstracts for diagnostic test accuracy reviews
 
 https://www.medrxiv.org/content/10.1101/2023.10.31.23297818v1
