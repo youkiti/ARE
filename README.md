@@ -1,8 +1,14 @@
 # ARE (AI-based Review Enhancement)
 ## Development of meta-prompts for Large Language Models to screen titles and abstracts for diagnostic test accuracy reviews
+A preprint manuscript.
 https://www.medrxiv.org/content/10.1101/2023.10.31.23297818v1
 
-Please try the meta-prompt.
+## Preparation
+Users have to prepare the API of OpenAI or Microsoft Azure OpenAI Service.
+https://openai.com/blog/openai-api
+https://azure.microsoft.com/en-us/products/ai-services/openai-service
+
+##Please try the meta-prompt.
 Azure OpenAI API:
 https://github.com/youkiti/ARE/blob/main/2023_11_1Azure_DTA_abstract_classifier.ipynb
 
