@@ -8,7 +8,7 @@ Users have to prepare the API of OpenAI or Microsoft Azure OpenAI Service.
 https://openai.com/blog/openai-api
 https://azure.microsoft.com/en-us/products/ai-services/openai-service
 
-##Please try the meta-prompt.
+## Please try the meta-prompt.
 Azure OpenAI API:
 https://github.com/youkiti/ARE/blob/main/2023_11_1Azure_DTA_abstract_classifier.ipynb
 
